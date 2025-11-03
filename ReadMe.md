@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my B.tech Computer Science and Engineering(CSE)<br>          from Graphic Era (Deemed to be) University.<br>🤝 How to reach me: yuvnegiraj2101@gmail.com<br>🌱 I’m currently learning Web development<br>💬 Ask me about Problem Solving, Web development<br> 
+🔭 I’m currently pursuing my B.tech Computer Science and Engineering(CSE)<br>          from Graphic Era (Deemed to be) University.<br>🤝 How to reach me: yuvrajnegi2101@gmail.com<br>🌱 I’m currently learning Web development<br>💬 Ask me about Problem Solving, Web development<br> 
 
 
 ## 🌐 Socials:
